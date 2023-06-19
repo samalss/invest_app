@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771806493132",
+    "project_id": "invest-b5cae",
+    "storage_bucket": "invest-b5cae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771806493132:android:b94940976fee874b344569",
+        "android_client_info": {
+          "package_name": "com.example.samal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771806493132-l5uqe1ubf3pmie7tet4ontcv7vgt0p6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ52cztvVKoNVzbI8QQxO5r_y9_HGBUOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771806493132-l5uqe1ubf3pmie7tet4ontcv7vgt0p6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
